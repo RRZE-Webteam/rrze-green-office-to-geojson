@@ -1,0 +1,1420 @@
+{
+    "locations": [
+        {
+            "ID": 1,
+            "latitude": 49.575753358633,
+            "longitude": 11.0253125938767,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "TechFak Reparaturstation",
+            "address": "Martensstra\u00dfe 9, 91058 Erlangen"
+        },
+        {
+            "ID": 2,
+            "latitude": 49.596341820102440,
+            "longitude": 11.029089144170636,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "ER-R\u00f6thelheimcampus",
+            "address": "Paul-Gordan-Str. 3, 91058 Erlangen"
+        },
+        {
+            "ID": 3,
+            "latitude": 49.46939591410750,
+            "longitude": 11.010033431248244,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "F\u00dc-Uferstadt",
+            "address": "Dr.-Mack-Str. 81, F\u00fcrth"
+        },
+        {
+            "ID": 4,
+            "latitude": 49.437844793550790,
+            "longitude": 11.111762325419428,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "N-Regensburger Stra\u00dfe",
+            "address": "Regensburger Str. 160, N\u00fcrnberg"
+        },
+        {
+            "ID": 5,
+            "latitude": 49.594498451615270,
+            "longitude": 11.014444118235724,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Fahrradkiste",
+            "address": "Henkestr. 59, 91058 Erlangen"
+        },
+        {
+            "ID": 6,
+            "latitude": 49.59681383300357,
+            "longitude": 11.006335176371710,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "FREILAUF Bike & Outdoor",
+            "address": "Untere Karlstr. 9-11, 91058 Erlangen"
+        },
+        {
+            "ID": 7,
+            "latitude": 49.607975598900350,
+            "longitude": 10.985990422774462,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Fahrrad Werkzeug Turm Shell Tankstelle",
+            "address": "St. Johann 5, 91056 Erlangen"
+        },
+        {
+            "ID": 8,
+            "latitude": 49.59253011487169,
+            "longitude": 11.01537528415146,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Lufttankstelle",
+            "address": "Sophienstra\u00dfe 10, 91052 Erlangen"
+        },
+        {
+            "ID": 9,
+            "latitude": 49.473829740831650,
+            "longitude": 11.000456368925392,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Fahrrad-Servicestation Jakobinenstra\u00dfe",
+            "address": "Jakobinenstra\u00dfe, 90762 F\u00fcrth"
+        },
+        {
+            "ID": 10,
+            "latitude": 49.48855143536285,
+            "longitude": 10.987066781657508,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Fahrrad-Servicestation",
+            "address": "90762 F\u00fcrth"
+        },
+        {
+            "ID": 11,
+            "latitude": 49.475331525213920,
+            "longitude": 10.990157241930908,
+            "category": "Fahrrad-Reparaturstation",
+            "Name": "Fahrrad-Servicestation F\u00fcrth Bahnhofsplatz",
+            "address": "Bahnhofpl., 90762 F\u00fcrth"
+        },
+        {
+            "ID": 12,
+            "latitude": 49.60095675316666,
+            "longitude": 11.0013265411769,
+            "category": "Fahrradwerkstatt",
+            "Name": "E-Werk Fahrradwerkstatt",
+            "address": "Fuchsenwiese 1, 91058 Erlangen"
+        },
+        {
+            "ID": 13,
+            "latitude": 49.597662138848450,
+            "longitude": 11.002018468749476,
+            "category": "Fahrradwerkstatt",
+            "Name": "Caf\u00e9 Hergricht",
+            "address": "Westliche Stadtmauerstra\u00dfe 3A, 91054 Erlangen"
+        },
+        {
+            "ID": 14,
+            "latitude": 49.577089089920880,
+            "longitude": 11.029089144170636,
+            "category": "Fahrradwerkstatt",
+            "Name": "FAU FabLab",
+            "address": "Cauerstra\u00dfe 7, 91058 Erlangen"
+        },
+        {
+            "ID": 15,
+            "latitude": 49.453049713030470,
+            "longitude": 11.122534784659138,
+            "category": "Fahrradwerkstatt",
+            "Name": "Golbach Werkstatt",
+            "address": "Urbanstra\u00dfe 4A, 90480 N\u00fcrnberg"
+        },
+        {
+            "ID": 16,
+            "latitude": 49.433816107398740,
+            "longitude": 11.005752681019724,
+            "category": "Fahrradwerkstatt",
+            "Name": "NOA",
+            "address": "Gutenstetter Str. 20, 90449 N\u00fcrnberg"
+        },
+        {
+            "ID": 17,
+            "latitude": 49.405097159311810,
+            "longitude": 11.082160629981246,
+            "category": "Fahrradwerkstatt",
+            "Name": "Brendics-Fahrradwerkstatt",
+            "address": "Pf\u00e4lzer-Wald-Stra\u00dfe 66, 90469 N\u00fcrnberg"
+        },
+        {
+            "ID": 18,
+            "latitude": 49.470935990320640,
+            "longitude": 11.123654585228142,
+            "category": "Fahrradwerkstatt",
+            "Name": "Rad + Technik HUTZLER",
+            "address": "\u00c4u\u00dfere Sulzbacher Str. 173, 90491 N\u00fcrnberg"
+        },
+        {
+            "ID": 19,
+            "latitude": 49.458663805586110,
+            "longitude": 11.112324934463008,
+            "category": "Fahrradwerkstatt",
+            "Name": "BikeKitchen",
+            "address": "Dagmarstra\u00dfe 14, 90480 N\u00fcrnberg"
+        },
+        {
+            "ID": 20,
+            "latitude": 49.473255026634930,
+            "longitude": 11.041898884462708,
+            "category": "Fahrradwerkstatt",
+            "Name": "Franz Schneck Wetzendorf",
+            "address": "Alte Parlerstra\u00dfe 7, 90425 N\u00fcrnberg"
+        },
+        {
+            "ID": 21,
+            "latitude": 49.59187835903115,
+            "longitude": 11.012573138837408,
+            "category": "VAG-Rad-Station",
+            "Name": "Mozartstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 22,
+            "latitude": 49.578449557877704,
+            "longitude": 10.99969082534470,
+            "category": "VAG-Rad-Station",
+            "Name": "Siemens Campus",
+            "address": "Siemenspromenade, 91058 Erlangen"
+        },
+        {
+            "ID": 23,
+            "latitude": 49.596219506121416,
+            "longitude": 11.002470616745502,
+            "category": "VAG-Rad-Station",
+            "Name": "Hauptbahnhof",
+            "address": ""
+        },
+        {
+            "ID": 24,
+            "latitude": 49.593363789252520,
+            "longitude": 11.003910338837568,
+            "category": "VAG-Rad-Station",
+            "Name": "Arcaden",
+            "address": ""
+        },
+        {
+            "ID": 25,
+            "latitude": 49.596582774567950,
+            "longitude": 11.004240829356062,
+            "category": "VAG-Rad-Station",
+            "Name": "Hugenottenplatz",
+            "address": ""
+        },
+        {
+            "ID": 26,
+            "latitude": 49.605051256815580,
+            "longitude": 11.002794118757372,
+            "category": "VAG-Rad-Station",
+            "Name": "Haagstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 27,
+            "latitude": 49.610479649421180,
+            "longitude": 11.020122561855384,
+            "category": "VAG-Rad-Station",
+            "Name": "Waldkrankenhaus",
+            "address": ""
+        },
+        {
+            "ID": 28,
+            "latitude": 49.59136871870464,
+            "longitude": 11.008435662508128,
+            "category": "VAG-Rad-Station",
+            "Name": "Rathaus Erlangen",
+            "address": ""
+        },
+        {
+            "ID": 29,
+            "latitude": 49.44819561480829,
+            "longitude": 11.081917075440288,
+            "category": "VAG-Rad-Station",
+            "Name": "K\u00f6nigstorgraben",
+            "address": ""
+        },
+        {
+            "ID": 30,
+            "latitude": 49.473818681758240,
+            "longitude": 11.104703407044650,
+            "category": "VAG-Rad-Station",
+            "Name": "Nordostbahnhof",
+            "address": ""
+        },
+        {
+            "ID": 31,
+            "latitude": 49.451394669583190,
+            "longitude": 11.138022000168504,
+            "category": "VAG-Rad-Station",
+            "Name": "Tiergarten",
+            "address": "Am Tiergarten, 90480 N\u00fcrnberg"
+        },
+        {
+            "ID": 32,
+            "latitude": 49.457206787025380,
+            "longitude": 11.089625446604340,
+            "category": "VAG-Rad-Station",
+            "Name": "Rathenauplatz",
+            "address": ""
+        },
+        {
+            "ID": 33,
+            "latitude": 49.445412129745160,
+            "longitude": 11.054652805473546,
+            "category": "VAG-Rad-Station",
+            "Name": "Rothenburger Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 34,
+            "latitude": 49.453447352094850,
+            "longitude": 11.055596943037308,
+            "category": "VAG-Rad-Station",
+            "Name": "Gostenhof",
+            "address": "F\u00fcrther Str. 65, 90429 N\u00fcrnberg"
+        },
+        {
+            "ID": 35,
+            "latitude": 49.600516626233784,
+            "longitude": 11.015071410827066,
+            "category": "VAG-Rad-Station",
+            "Name": "Sieglitzhof",
+            "address": ""
+        },
+        {
+            "ID": 36,
+            "latitude": 49.465107908406410,
+            "longitude": 11.100111484294192,
+            "category": "VAG-Rad-Station",
+            "Name": "Schoppershof",
+            "address": "Am Messehaus, 90489 N\u00fcrnberg"
+        },
+        {
+            "ID": 37,
+            "latitude": 49.430005805124570,
+            "longitude": 11.085862530856116,
+            "category": "VAG-Rad-Station",
+            "Name": "Frankenstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 38,
+            "latitude": 49.46357737905647,
+            "longitude": 11.071516869480892,
+            "category": "VAG-Rad-Station",
+            "Name": "Friedrich Ebert Platz",
+            "address": ""
+        },
+        {
+            "ID": 39,
+            "latitude": 49.450078004311870,
+            "longitude": 11.096784177418044,
+            "category": "VAG-Rad-Station",
+            "Name": "D\u00fcrrenhof",
+            "address": "D\u00fcrrenhofstra\u00dfe, 90478 N\u00fcrnberg"
+        },
+        {
+            "ID": 40,
+            "latitude": 49.466355259589680,
+            "longitude": 11.119535707044652,
+            "category": "VAG-Rad-Station",
+            "Name": "Ostbahnhof",
+            "address": "\u00c4u\u00dfere Sulzbacher Str. 121, 90491 N\u00fcrnberg"
+        },
+        {
+            "ID": 41,
+            "latitude": 49.436709946756160,
+            "longitude": 11.11620610971038,
+            "category": "VAG-Rad-Station",
+            "Name": "Dutzendteich",
+            "address": ""
+        },
+        {
+            "ID": 42,
+            "latitude": 49.486691003830910,
+            "longitude": 11.124476960482722,
+            "category": "VAG-Rad-Station",
+            "Name": "Nordostpark S\u00fcd",
+            "address": ""
+        },
+        {
+            "ID": 43,
+            "latitude": 49.460666959972870,
+            "longitude": 11.059696230856116,
+            "category": "VAG-Rad-Station",
+            "Name": "St. Johannis",
+            "address": "Kirchenweg 72, 90419 N\u00fcrnberg"
+        },
+        {
+            "ID": 44,
+            "latitude": 49.43990829465928,
+            "longitude": 11.101639561543732,
+            "category": "VAG-Rad-Station",
+            "Name": "Platz der Opfer des Faschismus",
+            "address": "Hainstra\u00dfe 34, 90461 N\u00fcrnberg"
+        },
+        {
+            "ID": 45,
+            "latitude": 49.454141607936960,
+            "longitude": 11.087434378989132,
+            "category": "VAG-Rad-Station",
+            "Name": "W\u00f6hrder Wiese",
+            "address": "Prinzregentenufer 5X, 90489 N\u00fcrnberg"
+        },
+        {
+            "ID": 46,
+            "latitude": 49.441195506915530,
+            "longitude": 11.0802246012295,
+            "category": "VAG-Rad-Station",
+            "Name": "Aufse\u00dfplatz",
+            "address": ""
+        },
+        {
+            "ID": 47,
+            "latitude": 49.4590812201477,
+            "longitude": 11.033369650634840,
+            "category": "VAG-Rad-Station",
+            "Name": "Eberhartshof",
+            "address": "F\u00fcrther Str. 212, 90429 N\u00fcrnberg"
+        },
+        {
+            "ID": 48,
+            "latitude": 49.448913722696120,
+            "longitude": 11.06078969613992,
+            "category": "VAG-Rad-Station",
+            "Name": "S\u00fcdliche F\u00fcrther Stra\u00dfe",
+            "address": "S\u00fcdliche F\u00fcrther Str. 5, 90429 N\u00fcrnberg"
+        },
+        {
+            "ID": 51,
+            "latitude": 49.596853366052550,
+            "longitude": 11.004214151633470,
+            "category": "Duschmoglichkeit",
+            "Name": "\u00d6ffentliche Duschmöglichkeit am Hugenottenplatz",
+            "address": "Hugenottenplatz"
+        },
+        {
+            "ID": 52,
+            "latitude": 49.600458887657210,
+            "longitude": 11.015057675596510,
+            "category": "Mobilpunkt",
+            "Name": "Bismarckstra\u00dfe",
+            "address": "Bismarckstra\u00dfe 4, 91054 Erlangen"
+        },
+        {
+            "ID": 53,
+            "latitude": 49.593873233940340,
+            "longitude": 11.010023926464976,
+            "category": "Mobilpunkt",
+            "Name": "Langemarckplatz",
+            "address": ""
+        },
+        {
+            "ID": 54,
+            "latitude": 49.596686062967570,
+            "longitude": 10.999516658603634,
+            "category": "Mobilpunkt",
+            "Name": "Gro\u00dfparkplatz Bahnhof Erlangen",
+            "address": ""
+        },
+        {
+            "ID": 55,
+            "latitude": 49.58160200943154,
+            "longitude": 11.010384635240408,
+            "category": "Mobilpunkt",
+            "Name": "Str\u00fcmpellstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 56,
+            "latitude": 49.59027978550849,
+            "longitude": 11.025531534469976,
+            "category": "Mobilpunkt",
+            "Name": "Doris-Ruppenstein-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 57,
+            "latitude": 49.598325355557730,
+            "longitude": 10.962769408819932,
+            "category": "Mobilpunkt",
+            "Name": "Odenwaldallee",
+            "address": ""
+        },
+        {
+            "ID": 58,
+            "latitude": 49.601647975506190,
+            "longitude": 10.975684499477890,
+            "category": "Mobilpunkt",
+            "Name": "Kosbacher Damm",
+            "address": ""
+        },
+        {
+            "ID": 59,
+            "latitude": 49.606097225362480,
+            "longitude": 11.007040299089928,
+            "category": "Mobilpunkt",
+            "Name": "Essenbacher Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 60,
+            "latitude": 49.60052499097099,
+            "longitude": 11.045391510606116,
+            "category": "Mobilpunkt",
+            "Name": "Rennestra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 61,
+            "latitude": 49.553143071118040,
+            "longitude": 11.021461608390108,
+            "category": "Mobilpunkt",
+            "Name": "Lachnerstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 62,
+            "latitude": 49.5528268320990,
+            "longitude": 10.995516919189798,
+            "category": "Mobilpunkt",
+            "Name": "Eltersdorf Bahnhof",
+            "address": ""
+        },
+        {
+            "ID": 63,
+            "latitude": 49.627825104452010,
+            "longitude": 10.948400197094236,
+            "category": "Mobilpunkt",
+            "Name": "Naturbadstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 64,
+            "latitude": 49.577645903732750,
+            "longitude": 11.021851727925484,
+            "category": "Mobilpunkt",
+            "Name": "Karlsbader Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 65,
+            "latitude": 49.571485576370510,
+            "longitude": 10.996937050232424,
+            "category": "Mobilpunkt",
+            "Name": "Brucker Bahnhof",
+            "address": ""
+        },
+        {
+            "ID": 66,
+            "latitude": 49.468745016914120,
+            "longitude": 10.999587367313020,
+            "category": "Mobilpunkt",
+            "Name": "Pickertstra\u00dfe",
+            "address": "Pickertstra\u00dfe, 90762 F\u00fcrth"
+        },
+        {
+            "ID": 67,
+            "latitude": 49.477633091617410,
+            "longitude": 10.990511967306188,
+            "category": "Mobilpunkt",
+            "Name": "K\u00f6nigsplatz",
+            "address": "K\u00f6nigsplatz 7, 90762 F\u00fcrth"
+        },
+        {
+            "ID": 68,
+            "latitude": 49.479846614606040,
+            "longitude": 10.977844024978284,
+            "category": "Mobilpunkt",
+            "Name": "Cadolzburger Stra\u00dfe",
+            "address": "Cadolzburger Stra\u00dfe 1, 90766 F\u00fcrth"
+        },
+        {
+            "ID": 69,
+            "latitude": 49.461859583057130,
+            "longitude": 10.991526196140916,
+            "category": "Mobilpunkt",
+            "Name": "Steubenstra\u00dfe",
+            "address": "Steubenstra\u00dfe 13, 90763 F\u00fcrth"
+        },
+        {
+            "ID": 70,
+            "latitude": 49.470487628089496,
+            "longitude": 10.990305651961860,
+            "category": "Mobilpunkt",
+            "Name": "Bahnhofplatz F\u00fcrth",
+            "address": "Bahnhofplatz 90762 F\u00fcrth"
+        },
+        {
+            "ID": 71,
+            "latitude": 49.439711723577390,
+            "longitude": 11.070288861427692,
+            "category": "Mobilpunkt",
+            "Name": "Melanchthonplatz",
+            "address": ""
+        },
+        {
+            "ID": 72,
+            "latitude": 49.439152001132610,
+            "longitude": 11.081269481667220,
+            "category": "Mobilpunkt",
+            "Name": "Kopernikusplatz",
+            "address": ""
+        },
+        {
+            "ID": 73,
+            "latitude": 49.439503211777410,
+            "longitude": 11.050063239338536,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof St. Leonhard",
+            "address": ""
+        },
+        {
+            "ID": 74,
+            "latitude": 49.448271026429630,
+            "longitude": 11.059344225845962,
+            "category": "Mobilpunkt",
+            "Name": "Imhoffstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 75,
+            "latitude": 49.44568260927365,
+            "longitude": 11.079135539338840,
+            "category": "Mobilpunkt",
+            "Name": "Eilgutstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 76,
+            "latitude": 49.444004342212050,
+            "longitude": 11.083083352831880,
+            "category": "Mobilpunkt",
+            "Name": "Nelson-Mandela-Platz",
+            "address": ""
+        },
+        {
+            "ID": 77,
+            "latitude": 49.444537891722890,
+            "longitude": 11.091292370023924,
+            "category": "Mobilpunkt",
+            "Name": "Glockenhofstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 78,
+            "latitude": 49.460097999952296,
+            "longitude": 11.059668716903714,
+            "category": "Mobilpunkt",
+            "Name": "Poppenreuther Stra\u00dfe ",
+            "address": "Poppenreuther Str. 3, 90419 N\u00fcrnberg"
+        },
+        {
+            "ID": 79,
+            "latitude": 49.446982706589130,
+            "longitude": 11.098075668174610,
+            "category": "Mobilpunkt",
+            "Name": "Neubleiche",
+            "address": ""
+        },
+        {
+            "ID": 80,
+            "latitude": 49.444684880532470,
+            "longitude": 11.111227251668566,
+            "category": "Mobilpunkt",
+            "Name": "S-Bahnhalt Glei\u00dfhammer",
+            "address": ""
+        },
+        {
+            "ID": 81,
+            "latitude": 49.465000645791880,
+            "longitude": 11.101113888410304,
+            "category": "Mobilpunkt",
+            "Name": "Schoppershof",
+            "address": ""
+        },
+        {
+            "ID": 82,
+            "latitude": 49.46892862525075,
+            "longitude": 11.089052067844648,
+            "category": "Mobilpunkt",
+            "Name": "Schopenhauerstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 83,
+            "latitude": 49.464347563469224,
+            "longitude": 11.086187424275050,
+            "category": "Mobilpunkt",
+            "Name": "Schillerplatz",
+            "address": ""
+        },
+        {
+            "ID": 84,
+            "latitude": 49.46397653547496,
+            "longitude": 11.065981307780304,
+            "category": "Mobilpunkt",
+            "Name": "Bielingplatz",
+            "address": ""
+        },
+        {
+            "ID": 85,
+            "latitude": 49.47301767512870,
+            "longitude": 11.057597361462084,
+            "category": "Mobilpunkt",
+            "Name": "Forchheimer Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 86,
+            "latitude": 49.47160086795111550,
+            "longitude": 11.1039009695112808,
+            "category": "Mobilpunkt",
+            "Name": "Leipziger Platz",
+            "address": ""
+        },
+        {
+            "ID": 87,
+            "latitude": 49.459291997940504,
+            "longitude": 11.133077488205842,
+            "category": "Mobilpunkt",
+            "Name": "M\u00f6geldorf",
+            "address": ""
+        },
+        {
+            "ID": 88,
+            "latitude": 49.46235671082317,
+            "longitude": 11.07163151624724,
+            "category": "Mobilpunkt",
+            "Name": "Friedrich-Ebert-Platz",
+            "address": ""
+        },
+        {
+            "ID": 89,
+            "latitude": 49.444743731311330,
+            "longitude": 11.127379702359788,
+            "category": "Mobilpunkt",
+            "Name": "Zerzabelshof Mitte",
+            "address": ""
+        },
+        {
+            "ID": 90,
+            "latitude": 49.46333915656860,
+            "longitude": 11.078585362689712,
+            "category": "Mobilpunkt",
+            "Name": "Kaulbachplatz",
+            "address": ""
+        },
+        {
+            "ID": 91,
+            "latitude": 49.460706376795650,
+            "longitude": 11.092510997575656,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof Rennweg",
+            "address": ""
+        },
+        {
+            "ID": 92,
+            "latitude": 49.461399684500750,
+            "longitude": 11.10372562584666,
+            "category": "Mobilpunkt",
+            "Name": "Fichtestra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 93,
+            "latitude": 49.458731938717890,
+            "longitude": 11.096844190617216,
+            "category": "Mobilpunkt",
+            "Name": "Stresemannplatz",
+            "address": ""
+        },
+        {
+            "ID": 94,
+            "latitude": 49.463222989923464,
+            "longitude": 11.050844078477016,
+            "category": "Mobilpunkt",
+            "Name": "Wendeschleife Westfriedhof",
+            "address": ""
+        },
+        {
+            "ID": 95,
+            "latitude": 49.459712089783760,
+            "longitude": 11.070494023997060,
+            "category": "Mobilpunkt",
+            "Name": "Wielandstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 96,
+            "latitude": 49.4557461727663,
+            "longitude": 11.117865464742768,
+            "category": "Mobilpunkt",
+            "Name": "Ostendstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 97,
+            "latitude": 49.455796148258420,
+            "longitude": 11.078412215198344,
+            "category": "Mobilpunkt",
+            "Name": "Theresienstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 98,
+            "latitude": 49.45582138763997,
+            "longitude": 11.041218198913546,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof Maximilianstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 99,
+            "latitude": 49.452593108829830,
+            "longitude": 11.051033897010518,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof B\u00e4renschanze",
+            "address": ""
+        },
+        {
+            "ID": 100,
+            "latitude": 49.456814756275340,
+            "longitude": 11.085393978542008,
+            "category": "Mobilpunkt",
+            "Name": "\u00c4u\u00dfere Laufer Gasse",
+            "address": ""
+        },
+        {
+            "ID": 101,
+            "latitude": 49.45304598360840,
+            "longitude": 11.087208915191290,
+            "category": "Mobilpunkt",
+            "Name": "W\u00f6hrder Wiese",
+            "address": ""
+        },
+        {
+            "ID": 102,
+            "latitude": 49.454163394256470,
+            "longitude": 11.074829010288780,
+            "category": "Mobilpunkt",
+            "Name": "Augustinerstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 103,
+            "latitude": 49.451280516177384,
+            "longitude": 11.082346437489712,
+            "category": "Mobilpunkt",
+            "Name": "Katharinengasse",
+            "address": ""
+        },
+        {
+            "ID": 104,
+            "latitude": 49.450395168389750,
+            "longitude": 11.087788368174754,
+            "category": "Mobilpunkt",
+            "Name": "Haderm\u00fchle",
+            "address": ""
+        },
+        {
+            "ID": 105,
+            "latitude": 49.449124523272440,
+            "longitude": 11.07204056632524,
+            "category": "Mobilpunkt",
+            "Name": "Jakobstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 106,
+            "latitude": 49.452266162369590,
+            "longitude": 11.070497923996668,
+            "category": "Mobilpunkt",
+            "Name": "Karl-Grillenberger-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 107,
+            "latitude": 49.43765690538629,
+            "longitude": 11.096599639338448,
+            "category": "Mobilpunkt",
+            "Name": "Wodanstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 108,
+            "latitude": 49.45163826343760,
+            "longitude": 11.062774281667934,
+            "category": "Mobilpunkt",
+            "Name": "Bleichstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 109,
+            "latitude": 49.439285953718430,
+            "longitude": 11.037346170023678,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof Gustav-Adolf-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 110,
+            "latitude": 49.434803814858090,
+            "longitude": 11.049120718709296,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof Schweinau",
+            "address": ""
+        },
+        {
+            "ID": 111,
+            "latitude": 49.404928000506296,
+            "longitude": 11.131847081938796,
+            "category": "Mobilpunkt",
+            "Name": "Langwasser Mitte",
+            "address": ""
+        },
+        {
+            "ID": 112,
+            "latitude": 49.44806623809410,
+            "longitude": 11.063176420493584,
+            "category": "Mobilpunkt",
+            "Name": "Planetarium",
+            "address": ""
+        },
+        {
+            "ID": 113,
+            "latitude": 49.437390796951810,
+            "longitude": 11.090172610502774,
+            "category": "Mobilpunkt",
+            "Name": "S\u00fcdstadtbad",
+            "address": ""
+        },
+        {
+            "ID": 114,
+            "latitude": 49.431525500415990,
+            "longitude": 11.065281954680712,
+            "category": "Mobilpunkt",
+            "Name": "Freiburgerstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 115,
+            "latitude": 49.431832034284470,
+            "longitude": 11.087150859103548,
+            "category": "Mobilpunkt",
+            "Name": "S\u00fcdpunkt",
+            "address": ""
+        },
+        {
+            "ID": 116,
+            "latitude": 49.421329005113660,
+            "longitude": 11.032337766323746,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof R\u00f6thenbach",
+            "address": ""
+        },
+        {
+            "ID": 117,
+            "latitude": 49.410193367242470,
+            "longitude": 11.081537581665724,
+            "category": "Mobilpunkt",
+            "Name": "Paumannstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 118,
+            "latitude": 49.463078064573690,
+            "longitude": 11.168061367946108,
+            "category": "Mobilpunkt",
+            "Name": "S-Bahnhalt Laufamholz",
+            "address": ""
+        },
+        {
+            "ID": 119,
+            "latitude": 49.503055508023460,
+            "longitude": 11.110601236892750,
+            "category": "Mobilpunkt",
+            "Name": "Buchenb\u00fchl",
+            "address": ""
+        },
+        {
+            "ID": 120,
+            "latitude": 49.48550905371,
+            "longitude": 11.104897077080730,
+            "category": "Mobilpunkt",
+            "Name": "U-Bahnhof Ziegelstein",
+            "address": ""
+        },
+        {
+            "ID": 121,
+            "latitude": 49.476659572508664,
+            "longitude": 11.103008660431892,
+            "category": "Mobilpunkt",
+            "Name": "Flataustra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 122,
+            "latitude": 49.477315969383680,
+            "longitude": 11.066435595174658,
+            "category": "Mobilpunkt",
+            "Name": "Thon Ost",
+            "address": ""
+        },
+        {
+            "ID": 123,
+            "latitude": 49.46730604692576,
+            "longitude": 11.049234167921136,
+            "category": "Mobilpunkt",
+            "Name": "Bielefelder Stra\u00dfe/Dortmunder Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 124,
+            "latitude": 49.466489950063150,
+            "longitude": 11.0713963098938,
+            "category": "Mobilpunkt",
+            "Name": "Kleinreuther Weg",
+            "address": ""
+        },
+        {
+            "ID": 125,
+            "latitude": 49.46988806178380,
+            "longitude": 11.1083885484552,
+            "category": "Mobilpunkt",
+            "Name": "Mommsenstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 126,
+            "latitude": 49.46111124126789,
+            "longitude": 11.112557648786646,
+            "category": "Mobilpunkt",
+            "Name": "Europaplatz",
+            "address": ""
+        },
+        {
+            "ID": 127,
+            "latitude": 49.46164147782616,
+            "longitude": 11.098888903797092,
+            "category": "Mobilpunkt",
+            "Name": "Fenitzerplatz",
+            "address": ""
+        },
+        {
+            "ID": 128,
+            "latitude": 49.461746457225990,
+            "longitude": 11.085265593648040,
+            "category": "Mobilpunkt",
+            "Name": "Maxfeldstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 129,
+            "latitude": 49.458697747770130,
+            "longitude": 11.084135506153584,
+            "category": "Mobilpunkt",
+            "Name": "Lange Gasse",
+            "address": ""
+        },
+        {
+            "ID": 130,
+            "latitude": 49.456667039935450,
+            "longitude": 11.098678043715916,
+            "category": "Mobilpunkt",
+            "Name": "Georg-Strobel-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 131,
+            "latitude": 49.461005859914190,
+            "longitude": 11.054535846874348,
+            "category": "Mobilpunkt",
+            "Name": "Kirschgartenstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 132,
+            "latitude": 49.452358510089230,
+            "longitude": 11.096007098249168,
+            "category": "Mobilpunkt",
+            "Name": "Wassertorstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 133,
+            "latitude": 49.44807108766872,
+            "longitude": 11.122460290023292,
+            "category": "Mobilpunkt",
+            "Name": "Passauer Stra\u00dfe/Fallrohrstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 134,
+            "latitude": 49.445684118648340,
+            "longitude": 11.072445570615706,
+            "category": "Mobilpunkt",
+            "Name": "Sandstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 135,
+            "latitude": 49.44575021657237,
+            "longitude": 11.059860355377984,
+            "category": "Mobilpunkt",
+            "Name": "Knauerstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 136,
+            "latitude": 49.439850245228904,
+            "longitude": 11.047798761739128,
+            "category": "Mobilpunkt",
+            "Name": "Heinrichstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 137,
+            "latitude": 49.438943382226110,
+            "longitude": 11.080531582658472,
+            "category": "Mobilpunkt",
+            "Name": "Humboldtstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 138,
+            "latitude": 49.434615793056,
+            "longitude": 11.079791908728768,
+            "category": "Mobilpunkt",
+            "Name": "Voltastra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 139,
+            "latitude": 49.43934274742271,
+            "longitude": 11.12763152347086,
+            "category": "Mobilpunkt",
+            "Name": "Valznerweiherstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 140,
+            "latitude": 49.4384147240549,
+            "longitude": 11.110334559210780,
+            "category": "Mobilpunkt",
+            "Name": "Ludwig-Frank-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 141,
+            "latitude": 49.43179998019525,
+            "longitude": 11.080299432685498,
+            "category": "Mobilpunkt",
+            "Name": "Sperberstra\u00dfe/ Gugelstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 142,
+            "latitude": 49.424729032816,
+            "longitude": 11.089644397378990,
+            "category": "Mobilpunkt",
+            "Name": "Hasenbuck",
+            "address": ""
+        },
+        {
+            "ID": 143,
+            "latitude": 49.416458823678820,
+            "longitude": 11.107017711291772,
+            "category": "Mobilpunkt",
+            "Name": "Sonnenstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 144,
+            "latitude": 49.40740463145178,
+            "longitude": 11.175558796973522,
+            "category": "Mobilpunkt",
+            "Name": "Altenfurt/Wittelsbacherstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 145,
+            "latitude": 49.412490636116390,
+            "longitude": 11.13101370214686,
+            "category": "Mobilpunkt",
+            "Name": "Annette-Kolb-Stra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 146,
+            "latitude": 49.401018323338330,
+            "longitude": 11.036387316751158,
+            "category": "Mobilpunkt",
+            "Name": "Eibacher Hauptstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 147,
+            "latitude": 49.38208362358608,
+            "longitude": 11.038845184618572,
+            "category": "Mobilpunkt",
+            "Name": "S-Bahnhalt Reichelsdorf",
+            "address": ""
+        },
+        {
+            "ID": 148,
+            "latitude": 49.574612523484580,
+            "longitude": 11.026949364199908,
+            "category": "E-Ladesaule",
+            "Name": "Martensstra\u00dfe",
+            "address": "Martensstra\u00dfe 5a"
+        },
+        {
+            "ID": 149,
+            "latitude": 49.5813254856437,
+            "longitude": 11.028748332268798,
+            "category": "E-Ladesaule",
+            "Name": "Staudtstra\u00dfe",
+            "address": "Staudtstra\u00dfe 2"
+        },
+        {
+            "ID": 150,
+            "latitude": 49.57319704613242,
+            "longitude": 11.024153627699436,
+            "category": "E-Ladesaule",
+            "Name": "Immerwahrstra\u00dfe",
+            "address": "Immerwahrstra\u00dfe 2a"
+        },
+        {
+            "ID": 151,
+            "latitude": 49.578112247494110,
+            "longitude": 11.031254394926944,
+            "category": "E-Ladesaule",
+            "Name": "Nikolaus-Fiebiger-Stra\u00dfe",
+            "address": "Nikolaus-Fiebiger-Stra\u00dfe 12"
+        },
+        {
+            "ID": 152,
+            "latitude": 49.603591619472050,
+            "longitude": 11.00027800165588,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Jahnstra\u00dfe",
+            "address": "Jahnstra\u00dfe"
+        },
+        {
+            "ID": 153,
+            "latitude": 49.594550106622856,
+            "longitude": 11.001721375393284,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Friedrich-List-Stra\u00dfe",
+            "address": "Friedrich-List-Stra\u00dfe 8, 91052 Erlangen"
+        },
+        {
+            "ID": 154,
+            "latitude": 49.583310371491660,
+            "longitude": 10.989099764418670,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Isarstra\u00dfe",
+            "address": "Isarstra\u00dfe 2-6, 91052 Erlangen"
+        },
+        {
+            "ID": 155,
+            "latitude": 49.589702383029790,
+            "longitude": 11.014134206746546,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Pf\u00e4lzer Stra\u00dfe",
+            "address": "Pf\u00e4lzer Str. 19, 91052 Erlangen"
+        },
+        {
+            "ID": 156,
+            "latitude": 49.5914942122873,
+            "longitude": 11.0167659288367,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Mozartstra\u00dfe",
+            "address": "Mozartstra\u00dfe 30, 91052 Erlangen"
+        },
+        {
+            "ID": 157,
+            "latitude": 49.569210558651680,
+            "longitude": 10.9905418288367,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Bachfeldstra\u00dfe",
+            "address": "Bachfeldstra\u00dfe 32, 91058 Erlangen"
+        },
+        {
+            "ID": 158,
+            "latitude": 49.593407622431330,
+            "longitude": 11.036163271164576,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Elisabethstra\u00dfe",
+            "address": "Elisabethstra\u00dfe 3, 91052 Erlangen"
+        },
+        {
+            "ID": 159,
+            "latitude": 49.570288993766280,
+            "longitude": 10.996427937435048,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Brucker Bahnhof",
+            "address": "Am Brucker Bahnhof 22, 91058 Erlangen"
+        },
+        {
+            "ID": 160,
+            "latitude": 49.59332255436170,
+            "longitude": 11.009771946033390,
+            "category": "Car-Sharing",
+            "Name": "Carsharing Stellp\u00e4tze Langemarckplatz",
+            "address": "Langemarckplatz 9, 91054 Erlangen"
+        },
+        {
+            "ID": 161,
+            "latitude": 49.596145969768140,
+            "longitude": 11.000356368195030,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Busbahnhof",
+            "address": ""
+        },
+        {
+            "ID": 162,
+            "latitude": 49.596126202495420,
+            "longitude": 11.002446676979956,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Hauptbahnhof",
+            "address": ""
+        },
+        {
+            "ID": 163,
+            "latitude": 49.59426637246082,
+            "longitude": 11.004110891543988,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Arcaden",
+            "address": ""
+        },
+        {
+            "ID": 164,
+            "latitude": 49.596593922129450,
+            "longitude": 11.004237076519076,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Hugenottenplatz",
+            "address": ""
+        },
+        {
+            "ID": 165,
+            "latitude": 49.599189352480900,
+            "longitude": 11.003351558705464,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Altstadtmarkt",
+            "address": ""
+        },
+        {
+            "ID": 166,
+            "latitude": 49.601855995464530,
+            "longitude": 11.002999332857540,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Martin-Luther-Platz",
+            "address": ""
+        },
+        {
+            "ID": 167,
+            "latitude": 49.600981286037260,
+            "longitude": 11.009054715022436,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Unikliniken/Maximiliansplatz",
+            "address": ""
+        },
+        {
+            "ID": 168,
+            "latitude": 49.60058448902437,
+            "longitude": 11.014655794559078,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Hindenburgstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 169,
+            "latitude": 49.599064766775680,
+            "longitude": 11.017424807226052,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Marie-Therese-Gymnasium",
+            "address": ""
+        },
+        {
+            "ID": 170,
+            "latitude": 49.596874079883340,
+            "longitude": 11.017339993170868,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Zollhaus",
+            "address": ""
+        },
+        {
+            "ID": 171,
+            "latitude": 49.598213884839670,
+            "longitude": 11.015087926591146,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Lorlebergplatz",
+            "address": ""
+        },
+        {
+            "ID": 172,
+            "latitude": 49.597597979965650,
+            "longitude": 11.011195438957948,
+            "category": "kostenfreie CityLinie 299",
+            "Name": "Haltestelle Krankenhausstra\u00dfe",
+            "address": ""
+        },
+        {
+            "ID": 173,
+            "latitude": 49.47456521238682,
+            "longitude": 11.104627168588384,
+            "category": "Bushaltestelle",
+            "Name": "Endstation Am Wegfeld der Linie 30  aus Erlangen",
+            "address": ""
+        },
+        {
+            "ID": 174,
+            "latitude": 49.492508366696830,
+            "longitude": 11.05427941087924,
+            "category": "Bushaltestelle",
+            "Name": "Endstation Am Wegfeld der Linie 20 und 290 aus Erlangen",
+            "address": "Am Wegfeld, 90427 N\u00fcrnberg"
+        },
+        {
+            "ID": 175,
+            "latitude": 49.596266769846360,
+            "longitude": 11.001984690826266,
+            "category": "Bahnstation",
+            "Name": "Hauptbahnhof Erlangen",
+            "address": ""
+        },
+        {
+            "ID": 176,
+            "latitude": 49.447014481587590,
+            "longitude": 11.081962170615028,
+            "category": "Bahnstation",
+            "Name": "Hauptbahnhof N\u00fcrnberg",
+            "address": ""
+        },
+        {
+            "ID": 177,
+            "latitude": 49.470324854528010,
+            "longitude": 10.990219331574540,
+            "category": "Bahnstation",
+            "Name": "Hauptbahnhof F\u00fcrth",
+            "address": ""
+        },
+        {
+            "ID": 178,
+            "latitude": 49.59537513991202,
+            "longitude": 11.005790123083772,
+            "category": "E-Scooter Mobilpunkt",
+            "Name": "E-Scooter Mobilpunkt Rathausplatz",
+            "address": ""
+        },
+        {
+            "ID": 179,
+            "latitude": 49.595857784997480,
+            "longitude": 11.002274820681922,
+            "category": "E-Scooter Mobilpunkt",
+            "Name": "E-Scooter Mobilpunkt Bahnhofsplatz",
+            "address": ""
+        }
+    ]
+}

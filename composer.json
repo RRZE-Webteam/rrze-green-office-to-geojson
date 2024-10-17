@@ -1,0 +1,5 @@
+{
+    "require": {
+        "jmikola/geojson": "^1.2"
+    }
+}
