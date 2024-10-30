@@ -10,7 +10,7 @@ if (!isset($argv[1])) {
 require_once __DIR__ . '/vendor/autoload.php';
 $data = json_decode($src);
 $features = [];
-$catcol = [
+$catColor = [
 	'Fahrrad-Reparaturstation' => '#d63e2a',
 	'Fahrradwerkstatt' => '#a23336',
 	'VAG-Rad-Station' => '#f69730',
@@ -23,16 +23,31 @@ $catcol = [
 	'Bahnstation' => '#0067a3',
 	'default' => 'default',
 ];
+$catIcon = [
+	'Fahrrad-Reparaturstation' => 'wrench',
+	'Fahrradwerkstatt' => 'magic',
+	'VAG-Rad-Station' => 'bicycle',
+	'Duschmoglichkeit' => 'shower',
+	'Mobilpunkt' => 'rocket',
+	'E-Ladesaule' => 'plug',
+	'Car-Sharing' => 'car',
+	'kostenfreie CityLinie 299' => 'bus',
+	'Bushaltestelle' => 'bus',
+	'Bahnstation' => 'train',
+	'default' => 'circle-o',
+];
 
 foreach ($data->locations as $item) {
-	$markerColor = $catcol[$item->category] ?? $catcol['default'];
+	$markerColor = $catColor[$item->category] ?? $catColor['default'];
+	$markerIcon = $catIcon[$item->category] ?? $catIcon['default'];
 	$point = new \GeoJson\Geometry\Point([$item->longitude, $item->latitude]);
 	$properties = [
 		'category' => $item->category,
 		'name' => $item->Name,
 		'address' => $item->address,
-		'popup' => '<h4>' . $item->Name . '</h4>' . $item->category . '<br>' . $item->address,
-		'marker-color' => $markerColor
+		'popup' => '<h4>' . $item->category . '</h4>' . $item->Name . '<br>' . $item->address,
+		'marker-color' => $markerColor,
+		'marker-icon' => $markerIcon,
 	];
 	$feature = new \GeoJson\Feature\Feature($point, $properties);
 	$features[] = $feature;
